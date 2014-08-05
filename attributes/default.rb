@@ -1,4 +1,4 @@
-default.tz = 'UTC'
+default.tz = 'America/Chicago'
 
 # Path to tzdata directory
 default.timezone.tzdata_dir = '/usr/share/zoneinfo'
